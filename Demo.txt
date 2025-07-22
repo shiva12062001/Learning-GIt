@@ -4,8 +4,5 @@ I am learning the git hub
 i am practising the git hub
 This is file of git hub
 This day 2
-<<<<<<< HEAD
 Hi this shiva prasad
-=======
-Mango 
->>>>>>> 76a96559bbca86dbff923751739427748ad6d8e6
+i am updating this file
